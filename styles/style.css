@@ -76,7 +76,7 @@ button:hover {
       align-items: center;
     }
   
-    #secao1, #secao2, #secao3 {
+   section {
       width: 80%;          
       margin-bottom: 20px;
       height: auto;        
